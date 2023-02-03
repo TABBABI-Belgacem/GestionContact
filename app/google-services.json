@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410221220228",
+    "project_id": "gestionetudiant-97afa",
+    "storage_bucket": "gestionetudiant-97afa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410221220228:android:8ccb78dfe641de75ef4dd1",
+        "android_client_info": {
+          "package_name": "com.example.gesionetudiant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410221220228-chtqvg22k4o62cm56celfumk8k3tm589.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gesionetudiant",
+            "certificate_hash": "887924aec5a6e9dc25e90efd2049ae4687aca5c1"
+          }
+        },
+        {
+          "client_id": "410221220228-t70i17gjb2p0s2apsk4triqed5u0uusk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsEaF9F780-YEwyhV_U8FCB48_H6xDW9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410221220228-t70i17gjb2p0s2apsk4triqed5u0uusk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
